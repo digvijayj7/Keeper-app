@@ -6,7 +6,7 @@ const year = new Date().getFullYear();
 
     return(
         <footer>
-            <p>Keeper App {year}</p>
+            <p>ToDo WebApp {year}</p>
         </footer>
     )
 }
